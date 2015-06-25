@@ -675,7 +675,7 @@ header{
 
 header ul {
 
-		margin-left:23em;
+		margin-left:21em;
 		padding-left:6.8em;
 		padding-top:.5em;
 		padding-bottom:.5em;
@@ -687,7 +687,7 @@ header ul {
 
 header ul projecttab li a{
 
-	margin-left:-10em;
+	margin-left:-9em;
 
 }
 
@@ -732,14 +732,14 @@ header ul li a{
 		width:100%;
 		height:auto;
 		z-index:200;
-		margin-top:150%;
+		margin-top:120%;
 }
 
 #moreinfo {
 
 		color:white;
 		height:22em;
-		margin-left:41%;
+		margin-left:40%;
 		font-family:sans-serif;
 		
 		-moz-transition: all 1.7s ease-in;
@@ -761,7 +761,7 @@ header ul li a{
 
 		position:absolute;
 		text-align:center;
-		margin-left:-4em;
+		margin-left:-3.5em;
 		margin-top:-6.5em;
 		font-size:5em;
 		padding:5px;
