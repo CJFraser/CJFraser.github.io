@@ -675,7 +675,7 @@ header{
 
 header ul {
 
-		margin-left:24em;
+		margin-left:23em;
 		padding-left:7.4em;
 		padding-top:.5em;
 		padding-bottom:.5em;
@@ -687,7 +687,7 @@ header ul {
 
 header ul projecttab li a{
 
-	margin-left:-20em;
+	margin-left:-10em;
 
 }
 
@@ -706,7 +706,7 @@ header ul li a{
 		
 		list-style-type:none;
 		text-decoration:none;	
-		font-size:3em;
+		font-size:2.8em;
 		color:#f7f7f7;
 		font-weight:bold;
 		padding-top:3px;
@@ -738,8 +738,8 @@ header ul li a{
 #moreinfo {
 
 		color:white;
-		height:45em;
-		margin-left:43%;
+		height:20em;
+		margin-left:41%;
 		font-family:sans-serif;
 		
 		-moz-transition: all 1.7s ease-in;
@@ -761,7 +761,7 @@ header ul li a{
 
 		position:absolute;
 		text-align:center;
-		margin-left:-3em;
+		margin-left:-6em;
 		margin-top:-6.5em;
 		font-size:5em;
 		padding:5px;
@@ -896,6 +896,7 @@ passfirst {
 	
 	background: rgba(255,255,255,.94);
 	width:auto;
+	height:50em;
 	padding: .5em;
 	font-size:1.8em;
 	font-weight:bold;
