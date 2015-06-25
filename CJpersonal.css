@@ -645,6 +645,84 @@ footer navfooter2 {
 	
 }
 
+
+header{
+		margin:0px;
+		color:#f7f7f7;
+		float:top;
+		position:fixed;
+		z-index:1000;
+		width:100%;
+		
+		-moz-transition: all .7s ease-in;
+      -o-transition: all .7s ease-in;
+      -webkit-transition: all .7s ease-in;
+      transition: all .7s ease-in;
+
+}
+
+.headerfade {
+
+	background: rgba(0,0,0,.5);
+	border-bottom: rgba(0,0,0,.9)
+	
+	-moz-transition: all .7s ease-in;
+      -o-transition: all .7s ease-in;
+      -webkit-transition: all .7s ease-in;
+      transition: all .7s ease-in;
+
+}
+
+header ul {
+
+		margin-left:20em;
+		padding-left:7.4em;
+		padding-top:.5em;
+		padding-bottom:.5em;
+		z-index:1000;
+		float:top;
+		width:100%;
+
+}
+
+header ul projecttab li a{
+
+	margin-left:-50em;
+
+}
+
+header ul li {
+		
+		display: inline-block;
+		color:#f7f7f7;
+		font-size: .9em;
+		font-family:tahoma;
+		padding-left:1.5em;
+		
+
+}
+
+header ul li a{
+		
+		list-style-type:none;
+		text-decoration:none;	
+		font-size:1.05em;
+		color:#f7f7f7;
+		font-weight:bold;
+		padding-top:3px;
+		padding-bottom:3px;
+		padding-right:5px;
+		padding-left:5px;
+		border:.1em solid #f6f6f6;
+		
+		
+		-moz-transition: all .3s ease-in;
+		-o-transition: all .3s ease-in;
+		-webkit-transition: all .3s ease-in;
+		transition: all .3s ease-in;
+
+}
+
 pass3 {
 
 	margin-top:-40em;
