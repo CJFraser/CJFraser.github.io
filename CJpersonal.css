@@ -676,7 +676,7 @@ header{
 header ul {
 
 		margin-left:23em;
-		padding-left:7.4em;
+		padding-left:6.8em;
 		padding-top:.5em;
 		padding-bottom:.5em;
 		z-index:1000;
@@ -732,13 +732,13 @@ header ul li a{
 		width:100%;
 		height:auto;
 		z-index:200;
-		margin-top:100%;
+		margin-top:150%;
 }
 
 #moreinfo {
 
 		color:white;
-		height:20em;
+		height:22em;
 		margin-left:41%;
 		font-family:sans-serif;
 		
@@ -761,7 +761,7 @@ header ul li a{
 
 		position:absolute;
 		text-align:center;
-		margin-left:-6em;
+		margin-left:-4em;
 		margin-top:-6.5em;
 		font-size:5em;
 		padding:5px;
@@ -884,7 +884,7 @@ passfirst {
 .whytable table.why {
 
 	width:100%;
-	background: rgba(255,255,255,.94);
+	background: rgba(255,255,255,.85);
 	font-family:sans-serif;
 	padding-left:2em;
 	border-spacing:2em;
@@ -1103,7 +1103,7 @@ triptext {
 
 .extrasContent {
 
-    background: rgba(0,0,0,.9);
+    background: rgba(0,0,0,.8);
     color:black;
 	color:#111;
 	list-style-type:none;
