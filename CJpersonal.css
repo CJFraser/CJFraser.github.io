@@ -691,6 +691,12 @@ header ul projecttab li a{
 
 }
 
+header ul li a:hover{
+
+		color: white;
+
+}
+
 header ul li {
 		
 		display: inline-block;
