@@ -711,9 +711,9 @@ header ul li a{
 		font-weight:bold;
 		padding-top:3px;
 		padding-bottom:3px;
-		padding-right:5px;
-		padding-left:5px;
-		border:.1em solid #f6f6f6;
+		padding-right:6px;
+		padding-left:6px;
+		border:.05em solid #f6f6f6;
 		
 		
 		-moz-transition: all .3s ease-in;
