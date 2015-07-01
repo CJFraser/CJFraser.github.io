@@ -432,9 +432,9 @@ triptext {
 	background: url('images/schedule.jpg');
 	background-size:100%;
 	background-repeat:no-repeat;
-	height:28em;
+	height:38em;
     	width:100%;
-	opacity:.6;
+	opacity:.7;
 
 }
 
@@ -1140,3 +1140,4 @@ pass3 {
 }
 
 }
+
