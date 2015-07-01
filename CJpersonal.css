@@ -166,7 +166,7 @@ buyit a{
 
 introtext {
 
-	opacity:0;
+	-opacity:0;
 	margin-bottom:-10vh;
 	-moz-transition: all .7s ease-in;
       -o-transition: all .7s ease-in;
@@ -216,7 +216,7 @@ passfirst {
 
 .quoteslide {
 
-	opacity:0;
+	-opacity:0;
 	margin-left:-55vw;
 	text-align:center;
 	position:relative;
@@ -276,6 +276,20 @@ passfirst {
 
 }
 
+.whytable table.why caption img{
+
+	background:white;
+	width:10em;
+	height:8em;
+	padding:.1em;
+	border:2px solid #d1d1d1;
+	border-top:none;
+	position:absolute;
+	float:left;
+	margin-top:-2em;
+	margin-left:-23em;
+
+}
 
 .whytable table.why tr{
 	
@@ -409,7 +423,7 @@ pass2 {
 
 trippics {
 
-	opacity:0;
+	-opacity:0;
 	
 	-moz-transition: all .4s ease-in;
       -o-transition: all .4s ease-in;
@@ -421,7 +435,7 @@ trippics {
 
 triptext {
 
-	opacity:0;
+	-opacity:0;
 	margin-left:-4vw;
 	margin-bottom:-5vh;
 	
@@ -477,8 +491,7 @@ triptext {
 .extrasContent {
 
     background: rgba(0,0,0,.9);
-    color:black;
-	color:#111;
+	color:#222;
 	list-style-type:none;
 	text-decoration:none;
 
@@ -486,11 +499,12 @@ triptext {
 
 .extrasContent table.ex {
 
-	background: url('img52.jpg');
+	background: url('images/schedule.jpg');
 	background-size:100%;
 	background-repeat:no-repeat;
 	height:18em;
     width:100%;
+	opacity:.6;
 
 }
 
@@ -626,6 +640,12 @@ footer navfooter2 {
 	font-family:tahoma;
 
 }
+
+
+
+
+
+
 
 
 @media only screen and (max-device-width: 480px) {
