@@ -591,7 +591,9 @@ imglinkfade {
 
 #cp_widget_ff086424-b9af-401a-91fb-640c22aecbfb {
 	
-	position:fixed;	
+	position:fixed;
+	visibility:visible;
+	float:bottom;
 	
 }
 
