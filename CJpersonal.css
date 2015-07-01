@@ -933,15 +933,15 @@ passfirst {
 .whytable table.why caption img{
 
 	background:white;
-	width:18em;
-	height:16em;
+	width:16em;
+	height:14em;
 	padding:.1em;
 	border:2px solid #d1d1d1;
 	border-top:none;
 	position:absolute;
 	float:none;
 	margin-top:-2em;
-	margin-left:15em;
+	margin-left:7em;
 
 }
 
