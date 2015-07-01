@@ -989,10 +989,10 @@ triptext {
 
 .extrasContent table.ex {
 
-	background: url('images/schedule.jpg');
+	background: url('images/schedulemobile.jpg');
 	background-size:100%;
 	background-repeat:no-repeat;
-	height:50em;
+	height:48em;
     	width:100%;
 	opacity:.7;
 
