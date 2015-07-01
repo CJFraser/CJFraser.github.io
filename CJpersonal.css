@@ -11,7 +11,7 @@ body {
 	
 }
 
-backgroundimgfull img{
+backgroundimgfull img {
 
 	width:100%;
 	position:fixed;	
@@ -432,8 +432,8 @@ triptext {
 	background: url('images/schedule.jpg');
 	background-size:100%;
 	background-repeat:no-repeat;
-	height:18em;
-    width:100%;
+	height:38em;
+    	width:100%;
 	opacity:.6;
 
 }
@@ -993,7 +993,7 @@ triptext {
 	background-size:100%;
 	background-repeat:no-repeat;
 	height:50em;
-    width:100%;
+    	width:100%;
 
 }
 
