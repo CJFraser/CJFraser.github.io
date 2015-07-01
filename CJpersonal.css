@@ -592,8 +592,6 @@ imglinkfade {
 #player {
 	
 	position:fixed;
-	visibility:visible;
-	float:bottom;
 	
 }
 
