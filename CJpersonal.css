@@ -27,6 +27,8 @@ header{
 		position:fixed;
 		z-index:1000;
 		width:100%;
+		background: rgba(0,0,0,.7);
+		background:none;
 		
 		-moz-transition: all .7s ease-in;
       -o-transition: all .7s ease-in;
@@ -37,8 +39,8 @@ header{
 
 .headerfade {
 
-	background: rgba(0,0,0,.5);
-	border-bottom: rgba(0,0,0,.9)
+	background: rgba(0,0,0,.6);
+	border-bottom: rgba(0,0,0,.9);
 	
 	-moz-transition: all .7s ease-in;
       -o-transition: all .7s ease-in;
@@ -49,7 +51,7 @@ header{
 
 header ul {
 
-		margin-left:62vw;
+		margin-left:52vw;
 		padding-left:7.4em;
 		padding-top:.5em;
 		padding-bottom:.5em;
@@ -61,7 +63,7 @@ header ul {
 
 header ul projecttab li a{
 
-	margin-left:-68vw;
+	margin-left:-58vw;
 
 }
 
@@ -104,6 +106,93 @@ header ul li a:hover{
 }
 
 
+
+header2 {
+
+	position:fixed;
+	z-index:2000;
+	text-decoration:none;
+	float:right;
+	margin-left:96%;
+	margin-top:4.8em;
+
+}
+
+header2 img {
+
+	width:2.1em;
+	height:2.1em;
+
+}
+
+header2 share a{
+
+	font-size:1.2em;
+	font-weight:bold;
+	font-family:tahoma;
+	text-decoration:none;
+	list-style:none;
+
+}
+
+header3 {
+
+	position:fixed;
+	z-index:2000;
+	text-decoration:none;
+	float:right;
+	margin-left:96%;
+	margin-top:8em;
+
+}
+
+header3 img {
+
+	width:2.2em;
+	height:2.2em;
+
+}
+
+header3 share a{
+
+	font-size:1.2em;
+	font-weight:bold;
+	font-family:tahoma;
+	text-decoration:none;
+	list-style:none;
+
+}
+
+header4 {
+
+	position:fixed;
+	z-index:2000;
+	text-decoration:none;
+	float:right;
+	margin-left:98%;
+	margin-top:9.1em;
+	font-size:1em;
+	color:#f7f7f7;
+
+}
+
+header4 share a{
+
+	font-size:1.2em;
+	font-weight:bold;
+	font-family:tahoma;
+	text-decoration:none;
+	list-style:none;
+	padding-bottom:.2em;
+	padding-left: .6em;
+	padding-right: .55em;
+	padding-top: .2em;
+	background:#333;
+	color:#ffffff;
+
+}
+
+
 #aboutme {
 
 		-background: rgba(10,10,10,.8);
@@ -111,7 +200,7 @@ header ul li a:hover{
 		width:100%;
 		height:auto;
 		z-index:200;
-		margin-top:42%;
+		margin-top:43.5%;
 }
 
 #moreinfo {
@@ -133,6 +222,7 @@ header ul li a:hover{
 		font-size: 2em;
 		border: .06em solid white;
 		padding:5px;
+		opacity:1;
 		
 }
 
@@ -141,12 +231,19 @@ header ul li a:hover{
 		font-size: 2em;
 		position:absolute;
 		text-align:center;
-		margin-left:-1.8em;
-		margin-top:-6.5em;
+		margin-left:-4em;
+		margin-top:-12em;
 		font-size:2.8em;
 		padding:5px;
 		opacity:1;
 		
+}
+
+#moreinfo breakertext2 img {
+
+	width:11em;
+	height:11em;
+
 }
 
 .breakertextfade {
@@ -282,18 +379,16 @@ passfirst {
 
 }
 
-.whytable table.why caption img{
+.whytable table.why caption img {
 
 	background:white;
-	width:10em;
-	height:8em;
+	width:12em;
+	height:9em;
 	padding:.1em;
 	border:2px solid #d1d1d1;
 	border-top:none;
-	position:absolute;
 	float:left;
 	margin-top:-2em;
-	margin-left:-23em;
 
 }
 
@@ -312,7 +407,8 @@ passfirst {
 	text-align:center;
 	font-size:.95em;
 	background:none;
-	padding-top:7em;
+	
+	-padding-top:7em;
 	padding-bottom:7em;
 	padding-left:1em;
 	border:none;
@@ -433,7 +529,7 @@ triptext {
 	background-size:100%;
 	background-repeat:no-repeat;
 	height:38em;
-    	width:100%;
+    width:100%;
 	opacity:.7;
 
 }
@@ -989,12 +1085,11 @@ triptext {
 
 .extrasContent table.ex {
 
-	background: url('images/schedulemobile.jpg');
+	background: url('img52.jpg');
 	background-size:100%;
 	background-repeat:no-repeat;
-	height:56em;
+	height:50em;
     	width:100%;
-	opacity:.7;
 
 }
 
@@ -1141,4 +1236,5 @@ pass3 {
 }
 
 }
+
 
