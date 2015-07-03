@@ -875,14 +875,14 @@ header3 share a{
 		width:100%;
 		height:auto;
 		z-index:200;
-		margin-top:150%;
+		margin-top:145%;
 }
 
 #moreinfo {
 
 		color:white;
-		height:25em;
-		margin-left:39%;
+		height:35em;
+		margin-left:40%;
 		font-family:sans-serif;
 		
 		-moz-transition: all 1.7s ease-in;
@@ -894,8 +894,8 @@ header3 share a{
 
 #moreinfo breakertext{
 
-		font-size: 5.3em;
-		border: .09em solid white;
+		font-size: 6.3em;
+		border: .1em solid white;
 		padding:10px;
 		
 }
