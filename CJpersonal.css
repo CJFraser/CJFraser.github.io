@@ -754,8 +754,8 @@ header{
 
 header ul {
 
-		margin-left:5em;
-		padding-left:6.8em;
+		margin-left:0em;
+		padding-left:1em;
 		padding-top:.5em;
 		padding-bottom:.5em;
 		z-index:1000;
@@ -817,14 +817,14 @@ header2 {
 	text-decoration:none;
 	float:right;
 	margin-left:92%;
-	margin-top:6.8em;
+	margin-top:8em;
 
 }
 
 header2 img {
 
-	width:3.1em;
-	height:3.1em;
+	width:5.1em;
+	height:5.1em;
 
 }
 
@@ -845,14 +845,14 @@ header3 {
 	text-decoration:none;
 	float:right;
 	margin-left:92%;
-	margin-top:10em;
+	margin-top:15em;
 
 }
 
 header3 img {
 
-	width:3.2em;
-	height:3.2em;
+	width:5.2em;
+	height:5.2em;
 
 }
 
@@ -875,7 +875,7 @@ header3 share a{
 		width:100%;
 		height:auto;
 		z-index:200;
-		margin-top:180%;
+		margin-top:170%;
 }
 
 #moreinfo {
@@ -904,8 +904,8 @@ header3 share a{
 
 		position:absolute;
 		text-align:center;
-		margin-left:-3.7em;
-		margin-top:-15em;
+		margin-left:-4.7em;
+		margin-top:-25em;
 		font-size:5em;
 		padding:5px;
 		opacity:1;
@@ -1180,7 +1180,7 @@ triptext {
 	background: url('images/schedule.jpg');
 	background-size:100%;
 	background-repeat:no-repeat;
-	height:50em;
+	height:40em;
     	width:100%;
 
 }
