@@ -754,7 +754,7 @@ header{
 
 header ul {
 
-		margin-left:0em;
+		margin-left:.5em;
 		padding-left:1em;
 		padding-top:.5em;
 		padding-bottom:.5em;
@@ -816,15 +816,15 @@ header2 {
 	z-index:2000;
 	text-decoration:none;
 	float:right;
-	margin-left:92%;
+	margin-left:91%;
 	margin-top:8em;
 
 }
 
 header2 img {
 
-	width:5.1em;
-	height:5.1em;
+	width:4.1em;
+	height:4.1em;
 
 }
 
@@ -844,15 +844,15 @@ header3 {
 	z-index:2000;
 	text-decoration:none;
 	float:right;
-	margin-left:92%;
+	margin-left:91%;
 	margin-top:15em;
 
 }
 
 header3 img {
 
-	width:5.2em;
-	height:5.2em;
+	width:4.2em;
+	height:4.2em;
 
 }
 
