@@ -663,7 +663,7 @@ imglinkfade {
 
 }
 
-footer{
+#footerwork {
 
 	margin-top:auto;
 	float:bottom;
@@ -675,18 +675,37 @@ footer{
 
 }
 
-footer navfooter2 {
+#footerwork .navfooter {
 		
 		font-size:.8em;
 		position:absolute;
 		margin-top:5em;
 		margin-left:7vw;
 		padding-right:6em;
-		display:bottom;
 		float:bottom;
 		-font-weight:bold;
 		color:#111;
 		border-right:2px solid #e1e1e1;
+
+}
+
+#footerwork .navfooter a {
+
+	text-decoration:none;
+
+}
+
+#footerwork .navfooter nav {
+
+	display:inline;
+
+}
+
+#footerwork .navfooter nav a{
+
+	text-decoration:none;
+	color:#DC143C;
+	display:inline;
 
 }
 
