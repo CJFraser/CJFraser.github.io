@@ -974,8 +974,9 @@ passfirst {
 	background-repeat:no-repeat;
 	background-position:center;
 	height:75em;
-	margin-left:0;
+	margin-left:-20em;
 	border-top:2px solid #8f3384;
+	overflow:hidden;
 	
 	z-index:10;
 
