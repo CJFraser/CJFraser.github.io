@@ -14,6 +14,27 @@ $(function() {
 });
 
 
+
+$(window).scroll(function(){
+	var wScroll = $(this).scrollTop();
+	
+	if(wScroll > $('.whyback').offset().top -$(window).height()) {
+
+	$('.whyback').css({
+		'transform' : 'translate('+ (wScroll - $('.whyback').offset().top +$(window).height())/5 +'px,0px)'
+	});
+	
+	$('.introtext').css({
+		'transform' : 'translate('+ (wScroll - $('.whyback').offset().top +$(window).height())/-5 +'px, '+ (wScroll - $('.whyback').offset().top +$(window).height())/6 +'px)'
+	});
+	
+   };
+   
+ });
+ 
+	
+	
+  
 $(document).ready(function() {
 	
 		var fade = $("passfirst").offset().top;
