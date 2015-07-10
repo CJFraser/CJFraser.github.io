@@ -297,6 +297,7 @@ buyit a{
 	border-top:2px solid #8f3384;
 	height:47em;
 	z-index:10;
+	overflow:hidden;
 
 }
 
