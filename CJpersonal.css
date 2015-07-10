@@ -501,9 +501,8 @@ triptext {
 	background: url('images/schedule.jpg');
 	background-size:100%;
 	background-repeat:no-repeat;
-	background-attachment:fixed;
 	height:56em;
-    width:100%;
+	 width:100%;
 	opacity:1;
 	z-index:10;
 
