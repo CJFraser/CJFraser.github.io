@@ -893,6 +893,7 @@ header3 share a{
 		height:auto;
 		z-index:200;
 		margin-top:145%;
+		overflow-x:hidden;
 }
 
 #moreinfo {
@@ -971,6 +972,7 @@ passfirst {
 .whytable {
 
 	background: black;
+	overflow-x:hidden;
 
 }
 
@@ -983,7 +985,7 @@ passfirst {
 	background-attachment:fixed;
 	height:75em;
 	border-top:2px solid #8f3384;
-	overflow:hidden;
+	overflow-x:hidden;
 	
 	z-index:10;
 
