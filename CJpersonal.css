@@ -1175,6 +1175,7 @@ header3 share a{
 		height:auto;
 		z-index:200;
 		margin-top:145%;
+		overflow-x:hidden;
 }
 
 #moreinfo {
