@@ -280,7 +280,7 @@ passfirst {
 		
 }
 
-#moreinfo .breakertext2{
+.breakertext2{
 
 		font-size: 2em;
 		position:absolute;
@@ -1200,7 +1200,7 @@ header3 share a{
 		
 }
 
-#moreinfo .breakertext2{
+.breakertext2{
 
 		position:absolute;
 		text-align:center;
