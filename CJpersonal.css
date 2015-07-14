@@ -1205,9 +1205,10 @@ header3 share a{
 
 		position:absolute;
 		text-align:center;
-		height:10em;
-		width:10em;
-		margin-top:20em;
+		height:6em;
+		width:6em;
+		margin-top:5em;
+		margin-left:-2em;
 		font-size:5em;
 		padding:5px;
 		opacity:1;
