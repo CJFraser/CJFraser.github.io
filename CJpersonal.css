@@ -365,6 +365,7 @@ text-decoration:none;
 
 }
 
+
 .whyback {
 
 	background: url('images/hand2.jpg');
@@ -1255,7 +1256,8 @@ passfirst {
 
 }
 
-.whyback {
+.whyback { visibility:hidden; height:0; }
+.whyback2 {
 
 	background: url('images/prof2mobile.jpg');
 	background-size:100%;
@@ -1265,8 +1267,8 @@ passfirst {
 	margin-left:-20em;
 	border-top:2px solid #8f3384;
 	overflow:hidden;
-	overflow-x:hidden;
 	z-index:10;
+	visibility:visible;
 
 }
 
