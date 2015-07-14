@@ -1256,7 +1256,7 @@ passfirst {
 
 }
 
-.whyback { visibility:hidden; height:0; }
+.whyback { visibility:; height:0; width:0; }
 .whyback2 {
 
 	background: url('images/prof2mobile.jpg');
