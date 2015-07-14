@@ -1461,7 +1461,8 @@ pass3 {
 
 }
 
-footer{
+
+footer {
 
 	margin-top:auto;
 	float:bottom;
@@ -1469,7 +1470,7 @@ footer{
 	position:absolute;
 	background: rgba(250,250,250,.95);
 	width:100%;
-	height:34em;
+	height:12em;
 
 }
 
