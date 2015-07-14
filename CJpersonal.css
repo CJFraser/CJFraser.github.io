@@ -1265,6 +1265,7 @@ passfirst {
 	margin-left:-20em;
 	border-top:2px solid #8f3384;
 	overflow:hidden;
+	overflow-x:hidden;
 	z-index:10;
 
 }
