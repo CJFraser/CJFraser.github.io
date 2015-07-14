@@ -280,6 +280,7 @@ passfirst {
 		
 }
 
+.breakertext22 { visibility:hidden; height:0; }
 .breakertext2{
 
 		font-size: 2em;
@@ -1204,8 +1205,8 @@ header3 share a{
 
 		position:absolute;
 		text-align:center;
-		margin-left:-4.5em;
-		margin-top:-14em;
+		margin-left:-1em;
+		margin-top:em;
 		font-size:5em;
 		padding:5px;
 		opacity:1;
