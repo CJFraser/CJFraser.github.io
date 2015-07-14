@@ -32,8 +32,14 @@ $(window).scroll(function(){
    
  });
  
-	
-	
+
+$(window).scroll(function(){
+	var wScroll = $(this).scrollTop(); 
+	$('.contactbar').css({
+		'transform' : 'translate(0px,'+ (wScroll)/4 +'px)'
+	});
+   
+ });
   
 $(document).ready(function() {
 	
