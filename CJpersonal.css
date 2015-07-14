@@ -1201,12 +1201,13 @@ header3 share a{
 		
 }
 
-.breakertext2{
+.breakertext22 {
 
 		position:absolute;
 		text-align:center;
-		margin-left:-1em;
-		margin-top:em;
+		height:10em;
+		width:10em;
+		margin-top:20em;
 		font-size:5em;
 		padding:5px;
 		opacity:1;
