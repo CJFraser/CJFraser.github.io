@@ -1215,7 +1215,7 @@ header3 share a{
 
 .breakertextfade {
 
-	opacity:0;
+	opacity:1;
 	
 	-moz-transition: all 1.7s ease-in;
       -o-transition: all 1.7s ease-in;
