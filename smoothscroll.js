@@ -13,9 +13,9 @@ $(function() {
   });
 });
 
--$(document).on('mobileinit', function () {
--  $.mobile.ignoreContentEnabled = true;
--});
+$(document).on('mobileinit', function () {
+  $.mobile.ignoreContentEnabled = true;
+});
 
 
 $(window).scroll(function(){
