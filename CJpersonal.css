@@ -841,61 +841,9 @@ header ul li a{
 
 }
 
+.mediaicons {
 
-
-header2 {
-
-	position:fixed;
-	z-index:2000;
-	text-decoration:none;
-	float:right;
-	margin-left:91%;
-	margin-top:8em;
-
-}
-
-header2 img {
-
-	width:4.1em;
-	height:4.1em;
-
-}
-
-header2 share a{
-
-	font-size:1.2em;
-	font-weight:bold;
-	font-family:tahoma;
-	text-decoration:none;
-	list-style:none;
-
-}
-
-header3 {
-
-	position:fixed;
-	z-index:2000;
-	text-decoration:none;
-	float:right;
-	margin-left:91%;
-	margin-top:15em;
-
-}
-
-header3 img {
-
-	width:4.2em;
-	height:4.2em;
-
-}
-
-header3 share a{
-
-	font-size:1.2em;
-	font-weight:bold;
-	font-family:tahoma;
-	text-decoration:none;
-	list-style:none;
+	margin-left:91.5%;
 
 }
 
