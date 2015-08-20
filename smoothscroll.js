@@ -53,16 +53,16 @@ $(window).scroll(function(){
 
 $(document).ready(function() {
 	
-		var fade = $("passfirst").offset().top;
+		var fade = $(".breakertext2").offset().top;
 		
 		$(window).scroll(function() {
 			var scrollPos = $(window).scrollTop();
 			
 			  if(scrollPos >= fade) {
-				$("#moreinfo").addClass("breakertextfade");
+				$(".mediaicons").addClass("mediafade");
 			} 
 			 else{
-				$("#moreinfo").removeClass("breakertextfade");
+				$(".mediaicons").removeClass("mediafade");
 			} 
 		});
 	
