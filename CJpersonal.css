@@ -267,6 +267,13 @@ header ul li a:hover{
 }
 
 
+.anamemusic {
+	position:absolute;
+	margin-top:-5em;
+}
+
+
+
 .schedule {
 	padding-top:6em;
 	padding-bottom:4em;
